@@ -1,5 +1,4 @@
 const app = require('./app')
-require('./firebase');
 
 
 app.listen(4000)
